@@ -2905,7 +2905,7 @@ end
 	- Used by: option elements: Track
 		Override default text setting behavior by executing the defined functor to set option text
 		Accepts: (..., path, opt, v, value)
-		Return: string
+		Returns: string
 		
 	[on_selection_functor]
 	- Define: ( table {function, parameters} )
